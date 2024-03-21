@@ -9,12 +9,12 @@
 - [x] *Week 0: Scratch*
   - [x] *Problem Set 0: Scratch*
 
-- [ ] *Week 1: C*
+- [x] *Week 1: C*
   - *Submit one of*
     - [x] *Problem Set 1: Mario Less - [Link to Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1/mario.md)*
     - [ ] *Problem Set 1: Mario More*
   - *Submit one of*
-    - [ ] *Problem Set 1: Cash*
+    - [x] *Problem Set 1: Cash - [Link to Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1/cash.md)*
     - [ ] *Problem Set 1: Credit*
 
 - [ ] *Week 2: Arrays*
