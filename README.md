@@ -15,7 +15,7 @@
     - [x] *Problem Set 1: Mario More - [Mario More Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1/mario-more.md)*
   - *Submit one of*
     - [x] *Problem Set 1: Cash - [Cash Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1/cash.md)*
-    - [ ] *Problem Set 1: Credit*
+    - [x] *Problem Set 1: Credit - [Credit Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1/credit.md)*
 
 - [ ] *Week 2: Arrays*
   - [ ] *Problem Set 2: Scrabble*
