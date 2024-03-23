@@ -11,10 +11,10 @@
 
 - [x] *Week 1: C*
   - *Submit one of*
-    - [x] *Problem Set 1: Mario Less - [Link to Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1/mario.md)*
-    - [ ] *Problem Set 1: Mario More*
+    - [x] *Problem Set 1: Mario Less - [Mario Less Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1/mario.md)*
+    - [x] *Problem Set 1: Mario More - [Mario More Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1/mario-more.md)*
   - *Submit one of*
-    - [x] *Problem Set 1: Cash - [Link to Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1/cash.md)*
+    - [x] *Problem Set 1: Cash - [Cash Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1/cash.md)*
     - [ ] *Problem Set 1: Credit*
 
 - [ ] *Week 2: Arrays*
