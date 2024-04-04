@@ -18,7 +18,7 @@
     - [x] *Problem Set 1: Credit - [Credit Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1/credit.md)*
 
 - [ ] *Week 2: Arrays*
-  - [ ] *Problem Set 2: Scrabble*
+  - [x] *Problem Set 2: Scrabble - [Scrabble Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-2-Array/scrabble.md)**
   - [ ] *Problem Set 2: Readability*
   - *Submit one of*
     - [ ] *Problem Set 2: Caesar*
