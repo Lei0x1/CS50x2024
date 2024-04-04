@@ -49,4 +49,4 @@ int CalculateChecksum(long creditCard) {
 the function implementation and a visualization of the calculations for each step. Important lines within the function
 are highlighted for better understanding.*
 
-To check the whole code click credit.c or Click this [Link](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1/credit.c)
+To check the whole code click credit.c or Click this [Link](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1-C/credit.c)
