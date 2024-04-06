@@ -17,11 +17,11 @@
     - [x] *Problem Set 1: Cash - [Cash Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1-C/cash.md)*
     - [x] *Problem Set 1: Credit - [Credit Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1-C/credit.md)*
 
-- [ ] *Week 2: Arrays*
+- [x] *Week 2: Arrays*
   - [x] *Problem Set 2: Scrabble - [Scrabble Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-2-Array/scrabble.md)*
   - [x] *Problem Set 2: Readability - [Readability Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-2-Array/readability.md)*
   - *Submit one of*
-    - [ ] *Problem Set 2: Caesar*
+    - [x] *Problem Set 2: Caesar - [Caesar Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-2-Array/caesar.md)*
     - [ ] *Problem Set 2: Substitution*
 
 - [ ] *Week 3: Algorithms*

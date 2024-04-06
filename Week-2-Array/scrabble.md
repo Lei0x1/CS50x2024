@@ -4,7 +4,7 @@
 *This program is designed to determine the winner of a short Scrabble-like game between two players. In Scrabble, players create words to score points, and the total points for a word are the sum of the point values of each letter in that word.*
 
 ### Function
-```
+```c
 int compute_score(string word)
 {
     int score = 0;
