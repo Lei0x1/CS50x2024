@@ -60,3 +60,5 @@ Minimum Coins Needed:
 ```
 
 *This markdown provides a clear description of the Cash problem, the function implementation, an example, and instructions on how to use the function in a C program.*
+
+*For a detailed walkthrough and the complete code [cash.c](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1-C/src/cash.c)*

@@ -37,3 +37,5 @@ void MarioRightAlign(int num) {
 ```
 
 *This markdown provides a clear description of how to solve the Mario right-align problem, along with the function implementation and a visualization of the calculations for each row.*
+
+*For a detailed walkthrough and the complete code [mario.c](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1-C/src/mario.c)*

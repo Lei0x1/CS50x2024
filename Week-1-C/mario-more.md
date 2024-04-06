@@ -47,4 +47,6 @@ void printPyramid(int num) {
 ########  ########        [row = 7]   [right_spaces = num - 7 - 1 = num - 8]   [right_hashes = 7 + 1 = 8]   [left_hashes = 7 + 1 = 8]
 ```
 
-This markdown provides a clear description of how to solve the Mario more problem, along with the function implementation and a visualization of the calculations for each row.
+*This markdown provides a clear description of how to solve the Mario more problem, along with the function implementation and a visualization of the calculations for each row.*
+
+*For a detailed walkthrough and the complete code [mario-more.c](https://github.com/Lei0x1/cs50-2024/blob/main/Week-1-C/src/mario-more.c)*
