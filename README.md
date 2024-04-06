@@ -19,7 +19,7 @@
 
 - [ ] *Week 2: Arrays*
   - [x] *Problem Set 2: Scrabble - [Scrabble Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-2-Array/scrabble.md)*
-  - [ ] *Problem Set 2: Readability*
+  - [x] *Problem Set 2: Readability - [Readability Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-2-Array/readability.md)*
   - *Submit one of*
     - [ ] *Problem Set 2: Caesar*
     - [ ] *Problem Set 2: Substitution*
