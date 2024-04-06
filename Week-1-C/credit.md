@@ -7,7 +7,7 @@ every other digit and summing the digits of the resulting numbers. Once the chec
 type of credit card based on its length and the initial digits.*
 
 ### Function
-```Copy code
+```c
 int CalculateChecksum(long creditCard) {
     int sum = 0;
     bool doubleAlternate  = false;

@@ -4,7 +4,7 @@
 To solve the Mario more problem, we need to print two pyramids of '#' characters, with the base width specified by the input num. One pyramid should be right-aligned, and the other left-aligned.
 
 ### Function:
-```Copy code
+```c
 void printPyramid(int num) {
     for (int row = 0; row < num; row++) {
         // Print spaces to right-align the pyramid

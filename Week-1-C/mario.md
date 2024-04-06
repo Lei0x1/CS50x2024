@@ -5,7 +5,7 @@
 
 
 ### Function:
-```Copy code
+```c
 void MarioRightAlign(int num) {
     for (int i = 0; i < num; i++) {
         // Print spaces to right-align the pyramid

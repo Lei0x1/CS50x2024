@@ -5,7 +5,7 @@
 
 
 ### Function:
-```Copy code
+```c
 int calculate_minimum_coins(int cents) {
     /* Define the denominations of coins
      *
