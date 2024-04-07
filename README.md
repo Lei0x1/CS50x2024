@@ -22,7 +22,7 @@
   - [x] *Problem Set 2: Readability - [Readability Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-2-Array/readability.md)*
   - *Submit one of*
     - [x] *Problem Set 2: Caesar - [Caesar Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-2-Array/caesar.md)*
-    - [ ] *Problem Set 2: Substitution*
+    - [x] *Problem Set 2: Substitution - [Substitution Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-2-Array/substitution.md)*
 
 - [ ] *Week 3: Algorithms*
   - [ ] *Problem Set 3: Sort*
