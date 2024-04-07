@@ -77,3 +77,7 @@
 
 ### License
 *This project is licensed under the MIT License - see the [LICENSE](https://github.com/Lei0x1/cs50-2024/blob/main/LICENSE) file for details.*
+
+---
+
+*Markdown created with assistance from ChatGPT.*
