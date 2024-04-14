@@ -25,7 +25,7 @@
     - [x] *Problem Set 2: Substitution - [Substitution Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-2-Array/substitution.md)*
 
 - [ ] *Week 3: Algorithms*
-  - [ ] *Problem Set 3: Sort*
+  - [x] *Problem Set 3: Sort [Sort Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-3-Algorithms/sort.md)*
   - [ ] *Problem Set 3: Plurality*
   - *Submit one of*
     - [ ] *Problem Set 3: Runoff*
