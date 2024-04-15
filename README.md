@@ -26,7 +26,7 @@
 
 - [ ] *Week 3: Algorithms*
   - [x] *Problem Set 3: Sort [Sort Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-3-Algorithms/sort.md)*
-  - [ ] *Problem Set 3: Plurality*
+  - [x] *Problem Set 3: Plurality [Plurality Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-3-Algorithms/plurality.md)*
   - *Submit one of*
     - [ ] *Problem Set 3: Runoff*
     - [ ] *Problem Set 3: Tideman*
