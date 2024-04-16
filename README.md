@@ -24,11 +24,11 @@
     - [x] *Problem Set 2: Caesar - [Caesar Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-2-Array/caesar.md)*
     - [x] *Problem Set 2: Substitution - [Substitution Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-2-Array/substitution.md)*
 
-- [ ] *Week 3: Algorithms*
+- [x] *Week 3: Algorithms*
   - [x] *Problem Set 3: Sort [Sort Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-3-Algorithms/sort.md)*
   - [x] *Problem Set 3: Plurality [Plurality Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-3-Algorithms/plurality.md)*
   - *Submit one of*
-    - [ ] *Problem Set 3: Runoff*
+    - [x] *Problem Set 3: Runoff* [Runoff Solution](https://github.com/Lei0x1/cs50-2024/blob/main/Week-3-Algorithms/runoff.md)*
     - [ ] *Problem Set 3: Tideman*
 
 - [ ] *Week 4: Memory*
